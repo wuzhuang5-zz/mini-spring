@@ -1,6 +1,6 @@
 package com.wz.step.step3.factory;
 
-import com.wz.step.step2.BeanDefinition;
+import com.wz.step.step3.BeanDefinition;
 
 import java.util.HashMap;
 import java.util.Map;
