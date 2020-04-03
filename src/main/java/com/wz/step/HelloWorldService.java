@@ -1,11 +1,10 @@
-package com.wz.step.step1;
+package com.wz.step;
 
 /**
- * @Description: Hello
+ * @Description: HelloWorldService
  * @Author: wz
  */
 public class HelloWorldService {
-
     public void sayHello() {
         System.out.println("Hello World");
     }
