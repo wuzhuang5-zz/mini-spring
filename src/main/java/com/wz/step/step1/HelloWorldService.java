@@ -5,6 +5,7 @@ package com.wz.step.step1;
  * @Author: wz
  */
 public class HelloWorldService {
+
     public void sayHello() {
         System.out.println("Hello World");
     }
